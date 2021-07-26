@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @reemalbannai
+- 👀 I’m a graphic designer who is interested in web development
+- 🌱 I’m currently learning HTML/ CSS/ JavaScript
+- 📫 You can reach me through my Behance page...
